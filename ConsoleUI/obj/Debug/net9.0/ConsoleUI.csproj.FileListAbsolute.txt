@@ -1,0 +1,14 @@
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\obj\Debug\net9.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\obj\Debug\net9.0\ConsoleUI.AssemblyInfoInputs.cache
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\obj\Debug\net9.0\ConsoleUI.AssemblyInfo.cs
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\obj\Debug\net9.0\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\bin\Debug\net9.0\ConsoleUI.exe
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\bin\Debug\net9.0\ConsoleUI.deps.json
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\bin\Debug\net9.0\ConsoleUI.runtimeconfig.json
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\bin\Debug\net9.0\ConsoleUI.dll
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\bin\Debug\net9.0\ConsoleUI.pdb
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\obj\Debug\net9.0\ConsoleUI.dll
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\obj\Debug\net9.0\refint\ConsoleUI.dll
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\obj\Debug\net9.0\ConsoleUI.pdb
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\obj\Debug\net9.0\ConsoleUI.genruntimeconfig.cache
+D:\Skole\H2\Code\ConsoleUI\ConsoleUI\obj\Debug\net9.0\ref\ConsoleUI.dll

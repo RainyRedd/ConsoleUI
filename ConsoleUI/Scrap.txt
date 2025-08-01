@@ -1,0 +1,36 @@
+using ConsoleUI;
+
+RowContainer row = new();
+ColumnContainer column = new();
+
+
+Console.CursorLeft = 1;
+Console.CursorTop = 1;
+
+row.AddChild(new Label("ID"));
+column.AddChild(new Label("1"));
+column.AddChild(new Label("2"));
+column.AddChild(new Label("2"));
+column.AddChild(new Label("3"));
+column.AddChild(new Label("4"));
+
+row.AddChild(new Label(" "));
+
+row.AddChild(new Label("Name"));
+column.AddChild(new Label("Jhon Doe"));
+column.AddChild(new Label("Jane Doe"));
+column.AddChild(new Label("Alice Smith"));
+column.AddChild(new Label("Bob Johnson"));
+
+
+
+column.AddChild(new Button("Save"));
+
+
+
+
+row.Render();
+column.Render();
+
+Console.ReadKey();
+//Program.cs
